@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1440" height="503" viewBox="0 0 1440 503">
+  <defs>
+    <linearGradient id="linear-gradient" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4151f6"/>
+      <stop offset="0.463" stop-color="#2f017a"/>
+      <stop offset="0.69" stop-color="#48027b"/>
+      <stop offset="1" stop-color="#900f57"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_677" data-name="Rectangle 677" width="1440" height="503" transform="translate(7543 -10713)" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_582" data-name="Rectangle 582" width="859" height="500" transform="translate(9382 -9999)" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-4" x1="0.021" y1="0.399" x2="0.808" y2="0.513" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4254fa"/>
+      <stop offset="1" stop-color="#30037c"/>
+    </linearGradient>
+  </defs>
+  <g id="Mask_Group_131" data-name="Mask Group 131" transform="translate(-7543 10713)" clip-path="url(#clip-path)">
+    <rect id="Rectangle_579" data-name="Rectangle 579" width="1440" height="503" transform="translate(7543 -10713)" fill="url(#linear-gradient)"/>
+    <g id="Mask_Group_118" data-name="Mask Group 118" transform="translate(-2075 -714)" clip-path="url(#clip-path-2)">
+      <line id="Line_274" data-name="Line 274" x1="169" y2="169" transform="translate(9515.5 -10107.5)" fill="none" stroke="#2566f2" stroke-width="2"/>
+      <line id="Line_275" data-name="Line 275" x1="169" y2="169" transform="translate(9927.5 -9549.5)" fill="none" stroke="#f6921f" stroke-width="2" stroke-dasharray="3"/>
+      <g id="Group_4566" data-name="Group 4566" transform="translate(9322 -14538)">
+        <rect id="Rectangle_581" data-name="Rectangle 581" width="624" height="138" rx="69" transform="translate(132.211 4701.717) rotate(-45)" fill="url(#linear-gradient-4)"/>
+        <path id="Path_875" data-name="Path 875" d="M69,0H555a69,69,0,0,1,0,138H69A69,69,0,0,1,69,0Z" transform="translate(824.026 4897.063) rotate(135)" opacity="0.25" fill="url(#linear-gradient-4)"/>
+      </g>
+    </g>
+  </g>
+</svg>
